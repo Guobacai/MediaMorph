@@ -50,6 +50,9 @@
  *    I user Arrays.sort in the program. It uses the quick sort which gives O(nlogn) time complexity. 
  *    Also, the Arrays.binarySearch uses the binary search which gives O(logn).
  *    Consider the stem words has limited size, these two operations won't impose too much burden on performance.
+ * *********************************************************************
+ * 5. Exception:
+ *    Since the Exception doesn't affect the core business of this program, I didn't wrote them. But, for the real and robus application, Exception is really necessary.
  * */
 
 package Problem1;

@@ -64,9 +64,7 @@ public class MovieDictionary {
 						putToDict(dict, word.toLowerCase(), itemIndex);
 					}
 				}
-				/*
-				 * Here should throw out an exception
-				 * */
+	
 			}
 			else{
 				// The movie without sequel
